@@ -1,1 +1,3 @@
-name = input("Enter Your Name: ")
+name = input("Enter Player Name: ")
+
+print(name)
