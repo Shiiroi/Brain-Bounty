@@ -1,6 +1,9 @@
-def play(category):
+def Play(category):
     print(f"Assigned task {category}")
     return int(input("Select Difficulty of Enemy"))
 
-def randomTask():
-    
+def RandomTask():
+    ...
+
+def LoadQuestions():
+    ...
