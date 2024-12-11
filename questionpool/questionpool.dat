@@ -48,6 +48,7 @@ difficulty:medium
 question:What year did the Miami Heat join the NBA?
 answer:1988
 
+
 category:NBA
 difficulty:hard
 question:Most Championships won by an NBA player?
@@ -90,7 +91,7 @@ answer:Tennis
 
 category:Nintendo
 difficulty:easy
-question:In which game did Waluigi make his first appearance?
+question:What is the maximum number of lives you can have at any time in Super Mario Bros?
 answer:99
 
 category:Nintendo
@@ -149,23 +150,53 @@ question:Who is the main host of the Mario Party series?
 answer:Toad
 
 category:Pokemon
+difficulty:easy
+question:Who Was Ash Ketchum's First Pokemon?
+answer:Pikachu
+
+category:Pokemon
+difficulty:easy
+question:Who Is The First Gym Leader Ash Faces In The Pokemon Series?
+answer:Brock
+
+category:Pokemon
+difficulty:easy
+question:What Is The Name Of The Protagonist In The Original Pokemon Red And Blue Games?
+answer:Red
+
+category:Pokemon
+difficulty:easy
+question:What Is The Maximum Level A Pokemon Can Reach?
+answer:100
+
+category:Pokemon
+difficulty:easy
+question:Which Pokémon Mobile Game Became A Worldwide Phenomenon In 2016?
+answer:Pokemon GO
+
+category:Pokemon
+difficulty:easy
+question:In Which Region Does Ash Win His First Pokemon League Championship?
+answer:Alola
+
+category:Pokemon
 difficulty:medium
-question:Which Pokémon Did Ash First Evolve During His Journey?
+question:Which Pokemon Did Ash First Evolve During His Journey?
 answer:Butterfree
 
 category:Pokemon
 difficulty:medium
-question:Which Pokémon Is Known As The First To Be Designed?
+question:Which Pokemon Is Known As The First To Be Designed?
 answer:Rhydon
 
 category:Pokemon
 difficulty:medium
-question:Which Pokémon Is Known As The “Aura Pokémon”?
+question:Which Pokémon Is Known As The Aura Pokemon?
 answer:Lucario
 
 category:Pokemon
 difficulty:medium
-question:Which Pokémon Is Known As The “Aura Pokémon”?
+question:What region is based on France?
 answer:Kalos
 
 category:Pokemon
@@ -195,5 +226,155 @@ answer:5
 
 category:Pokemon
 difficulty:hard
-question:How many types of Pokémon are there?
+question:How many types of Pokemon are there?
 answer:18
+
+category: Geography
+difficulty: easy
+question: What is the largest country in the world by area?
+answer: Russia
+
+category: Geography
+difficulty: easy
+question: What is the smallest country in the world?
+answer: Vatican City
+
+category: Geography
+difficulty: easy
+question: Which country has the longest coastline?
+answer: Canada
+
+category: Geography
+difficulty: easy
+question: What mountain is the tallest in the world above sea level? Mount ___
+answer: Everest
+
+category: Geography
+difficulty: easy
+question: Which country is both a continent and a country?
+answer: Australia
+
+category: Geography
+difficulty: medium
+question: Which European country has the highest number of castles per square mile?
+answer: Wales
+
+category: Geography
+difficulty: medium
+question: What is the capital city of Canada?
+answer: Ottawa
+
+category: Geography
+difficulty: medium
+question: In which country can you find the ancient city of Petra?
+answer: Jordan
+
+category: Geography
+difficulty: medium
+question: What is the capital of Egypt?
+answer: Cairo
+
+category: Geography
+difficulty: medium
+question: What is the capital of the Netherlands?
+answer: Amsterdam
+
+category: Geography
+difficulty: hard
+question: Which country has the most volcanoes in the world?
+answer: Indonesia
+
+category: Geography
+difficulty: hard
+question: What is the most densely populated city in the world?
+answer: Manila
+
+category: Geography
+difficulty: hard
+question: Which mountain range is the longest in the world? The ___
+answer: Andes
+
+category: Geography
+difficulty: hard
+question: What is the name of the largest island in the world?
+answer: Greenland
+
+category: Geography
+difficulty: hard
+question: What is the capital city of Iceland?
+answer: Reykjavik
+
+category: Naruto
+difficulty: easy
+question: What is the name of Naruto's signature jutsu?
+answer: Rasengan
+
+category: Naruto
+difficulty: easy
+question: Who is Naruto's father?
+answer: Minato
+
+category: Naruto
+difficulty: easy
+question: What is the name of Naruto's ninja village?
+answer: Konoha
+
+category: Naruto
+difficulty: easy
+question: Who is Naruto's first teacher at the academy?
+answer: Iruka
+
+category: Naruto
+difficulty: easy
+question: What is the name of Naruto's rival and best friend?
+answer: Sasuke
+
+category: Naruto
+difficulty: medium
+question: What is the name of Sasuke's clan?
+answer: Uchiha
+
+category: Naruto
+difficulty: medium
+question: Who is the leader of Akatsuki?
+answer: Pain
+
+category: Naruto
+difficulty: medium
+question: What is the name of Naruto's mother?
+answer: Kushina
+
+category: Naruto
+difficulty: medium
+question: What is Kakashi's signature jutsu?
+answer: Chidori
+
+category: Naruto
+difficulty: medium
+question: Who is the first Hokage of Konoha?
+answer: Hashirama
+
+category: Naruto
+difficulty: hard
+question: What is the name of Itachi's ultimate genjutsu?
+answer: Tsukuyomi
+
+category: Naruto
+difficulty: hard
+question: What is the name of the Sage of Six Paths?
+answer: Hagoromo
+
+category: Naruto
+difficulty: hard
+question: What is the name of Madara's ultimate plan?
+answer: Tsukiomi
+
+category: Naruto
+difficulty: hard
+question: Who is the Jinchuriki of the Seven-Tails?
+answer: Fuu
+
+category: Naruto
+difficulty: hard
+question: What is the name of the forbidden scroll Naruto steals?
+answer: Sealing
